@@ -101,8 +101,4 @@ After accessing the website, you can register, log in, view the product list, ad
 + [Lab-10.pdf](https://drive.google.com/file/d/1zJO-AY2ALDBPvdI3YR5U-FXPOzhJEDEr/view?usp=sharing)
 + [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node.pdf](https://drive.google.com/file/d/1jHtj0QknhbtrVoQifMZnCUCnO66GnbjK/view?usp=sharing)
 
-## Author
-- **Name**: Ngo Tien Dung
-- **Contact**: tiendung8a6@gmail.com
-- **Phone**: +84 985872885
-"# Online-Shopping-MERN-Stack" 
+
